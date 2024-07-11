@@ -1,9 +1,11 @@
 '''
 @Author: Nagashree C R
-@Date: 2024-07-11 
-@Last Modified by: Author Name
-@Last Modified: 2024-07-11 
-@Title : Program Aim
+@Date: 2024-07-10 
+@Last Modified by: Nagashree C R
+@Last Modified: 2024-07-10 
+@Title :read an integer as an Input, convert to Binary using toBinary function and perform the following functions.
+i. Swap nibbles and find the new number.
+ii. Find the resultant number is the number is a power of 2.
 '''
 
 
