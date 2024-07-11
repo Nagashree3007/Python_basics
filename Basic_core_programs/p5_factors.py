@@ -5,7 +5,7 @@
 @Last Modified: 2024-07-11
 @Title : the prime factorization of N using brute force.
 '''
-
+ 
 def prime_fact(n):
   fact=[]
   divisor=2
