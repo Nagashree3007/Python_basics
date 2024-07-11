@@ -1,9 +1,9 @@
-'''
+''''
 @Author: Nagashree C R
-@Date: 2024-07-11 
-@Last Modified by: Author Name
-@Last Modified: 2024-07-11 
-@Title : Program Aim
+@Date: 2024-07-10 
+@Last Modified by: Nagashree C R
+@Last Modified: 2024-07-10 
+@Title : find the day based on Date given
 '''
 
 class Util:
