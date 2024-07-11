@@ -9,7 +9,7 @@
 def prime_fact(n):
   fact=[]
   divisor=2
-  while n>1:
+  while n>1:   
     while n % divisor==0:
       fact.append(divisor)
       n//=divisor
