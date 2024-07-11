@@ -1,7 +1,7 @@
 '''
 @Author: Nagashree C R
 @Date: 2024-07-10 
-@Last Modified by: Author Name
+@Last Modified by: Nagashree C R
 @Last Modified: 2024-07-10 
 @Title : reversing a number
 '''
