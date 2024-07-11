@@ -5,7 +5,7 @@
 @Last Modified: 2024-07-10 
 @Title : Find distinct coupon numbers using random function
 '''
-import random
+import random 
 def coupon(n):
   count=0
   existing=[]
