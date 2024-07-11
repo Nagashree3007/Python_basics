@@ -2,8 +2,8 @@
 @Author: Nagashree C R
 @Date: 2024-07-11 
 @Last Modified by: Author Name
-@Last Modified: 2024-07-11 
-@Title : Program Aim
+@Last Modified: 2024-07-10 
+@Title : Find the perfect number
 '''
 
 def perfect(n):
