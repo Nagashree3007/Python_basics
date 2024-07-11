@@ -1,9 +1,9 @@
 '''
 @Author: Nagashree C R
-@Date: 2024-07-11 
-@Last Modified by: Author Name
-@Last Modified: 2024-07-11 
-@Title : Program Aim
+@Date: 2024-07-10 
+@Last Modified by: Nagashree C R
+@Last Modified: 2024-07-10 
+@Title : Find the minium notes given to user as a change anf print the notes given
 '''
 
 def minimum_notes(change):
