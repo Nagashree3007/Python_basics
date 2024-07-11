@@ -3,7 +3,7 @@
 @Date: 2024-07-11
 @Last Modified by: Nagashree C R
 @Last Modified: 2024-07-11 
-@Title : find the given year is leap year or not.
+@Title : find the given year is leap year or not. 
 '''
 
 def is_leap_year(year):
